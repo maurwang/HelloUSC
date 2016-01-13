@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-   std::cout<<"HelloUSC!"<<std::endl;
+   std::cout<<"Fight on!"<<std::endl;
 }
